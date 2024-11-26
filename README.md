@@ -97,9 +97,6 @@ The pre-trained Vision Transformer (ViT) model, after fine-tuning, exhibited str
 - **Experiment with Different Architectures**: Test the efficiency of newer transformer architectures on the defect classification problem.
 - **Hyperparameter Tuning**: Explore different learning rates, optimizers, and data augmentation settings.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
