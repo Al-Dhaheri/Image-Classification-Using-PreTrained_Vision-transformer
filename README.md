@@ -87,12 +87,6 @@ Each class was evaluated separately for AUC, accuracy, sensitivity, and specific
 
  **Evaluation**: After training, the model's metrics and visualizations are automatically generated, including plots for loss, accuracy, confusion matrix, and ROC curves.
 
-## Project Structure
-
-- `train_using_pretrained_model_image_classifier.py`: Main script to train the ViT model on the custom dataset.
-- `helper_functions.py`: Utility functions for model evaluation, plotting, and performance analysis.
-- `saved_models/`: Directory containing the trained models.
-
 ## Results
 
 The pre-trained Vision Transformer (ViT) model, after fine-tuning, exhibited strong performance in identifying defects in the custom dataset. The model achieved high accuracy, AUC, sensitivity, and specificity, making it suitable for practical use in automated defect detection.
