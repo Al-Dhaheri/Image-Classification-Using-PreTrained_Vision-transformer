@@ -83,28 +83,9 @@ Each class was evaluated separately for AUC, accuracy, sensitivity, and specific
 - **Google Colab** or similar GPU-enabled environment is recommended for training.
 - **Torchinfo** for model summary visualization.
 
-### Running the Project
 
-1. **Clone the Repository**:
 
-   ```bash
-   git clone https://github.com/username/vit-image-classification.git
-   cd vit-image-classification
-   ```
-
-2. **Install Requirements**:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Training the Model**: You can run the training script with the following command:
-
-   ```bash
-   python train_using_pretrained_model_image_classifier.py
-   ```
-
-4. **Evaluation**: After training, the model's metrics and visualizations are automatically generated, including plots for loss, accuracy, confusion matrix, and ROC curves.
+ **Evaluation**: After training, the model's metrics and visualizations are automatically generated, including plots for loss, accuracy, confusion matrix, and ROC curves.
 
 ## Project Structure
 
